@@ -1,4 +1,1 @@
-where am i
-#!/bin/bash
-pwd
-0-current_working_directory
+Where am i
