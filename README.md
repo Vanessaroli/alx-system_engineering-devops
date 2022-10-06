@@ -1,1 +1,1 @@
-#Shell Scripting Lecture
+ls : Display the contents lists of your current directory.
