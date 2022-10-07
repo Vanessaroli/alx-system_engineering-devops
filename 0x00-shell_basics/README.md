@@ -1,1 +1,1 @@
-#Shell scripting lectures.
+First readme
