@@ -1,1 +1,1 @@
-ls : Display the contents lists of your current directory.
+#Display the contents lists of your current directory.
